@@ -1,0 +1,2 @@
+-DSSD1306_NO_SPLASH
+-flto
